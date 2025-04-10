@@ -13,6 +13,9 @@
       <command>
         <exec>echo test</exec>
       </command>
+      <command>
+        <exec>echo 2</exec>
+      </command>
     </sequence>
   </job>
 </joblist>
