@@ -1,0 +1,18 @@
+<joblist>
+  <job>
+    <defaultTab>nodes</defaultTab>
+    <description></description>
+    <executionEnabled>true</executionEnabled>
+    <loglevel>INFO</loglevel>
+    <name>TT1</name>
+    <nodeFilterEditable>false</nodeFilterEditable>
+    <plugins />
+    <scheduleEnabled>true</scheduleEnabled>
+    <schedules />
+    <sequence keepgoing='false' strategy='node-first'>
+      <command>
+        <exec>echo test</exec>
+      </command>
+    </sequence>
+  </job>
+</joblist>
