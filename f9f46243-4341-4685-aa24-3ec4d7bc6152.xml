@@ -11,7 +11,7 @@
     <schedules />
     <sequence keepgoing='false' strategy='node-first'>
       <command>
-        <exec>echo t2</exec>
+        <exec>echo t22</exec>
       </command>
     </sequence>
   </job>
