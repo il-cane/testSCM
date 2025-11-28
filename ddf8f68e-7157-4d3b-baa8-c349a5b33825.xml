@@ -12,7 +12,7 @@
     <schedules />
     <sequence keepgoing='false' strategy='node-first'>
       <command>
-        <exec>echo teste1</exec>
+        <exec>echo teste2</exec>
       </command>
     </sequence>
     <user>admin</user>
