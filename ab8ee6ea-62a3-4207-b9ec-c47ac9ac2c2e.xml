@@ -12,7 +12,7 @@
     <schedules />
     <sequence keepgoing='false' strategy='node-first'>
       <command>
-        <exec>echo testOne</exec>
+        <exec>echo testTwo</exec>
       </command>
       <pluginConfig>
         <WorkflowStrategy>
