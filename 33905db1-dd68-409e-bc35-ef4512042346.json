@@ -2,7 +2,6 @@
   "defaultTab" : "nodes",
   "description" : "",
   "executionEnabled" : true,
-  "id" : "33905db1-dd68-409e-bc35-ef4512042346",
   "loglevel" : "INFO",
   "name" : "T5",
   "nodeFilterEditable" : false,
@@ -25,6 +24,5 @@
     },
     "strategy" : "node-first"
   },
-  "user" : "admin",
-  "uuid" : "33905db1-dd68-409e-bc35-ef4512042346"
+  "user" : "admin"
 } ]
