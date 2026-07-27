@@ -1,0 +1,21 @@
+<joblist>
+  <job>
+    <defaultTab>nodes</defaultTab>
+    <description></description>
+    <executionEnabled>true</executionEnabled>
+    <id>f163fbbd-7ae1-46ec-84f1-a74b53cf1e91</id>
+    <loglevel>INFO</loglevel>
+    <name>T3</name>
+    <nodeFilterEditable>false</nodeFilterEditable>
+    <plugins />
+    <scheduleEnabled>true</scheduleEnabled>
+    <schedules />
+    <sequence keepgoing='false' strategy='node-first'>
+      <command>
+        <exec>echo importado</exec>
+      </command>
+    </sequence>
+    <user>admin</user>
+    <uuid>f163fbbd-7ae1-46ec-84f1-a74b53cf1e91</uuid>
+  </job>
+</joblist>
