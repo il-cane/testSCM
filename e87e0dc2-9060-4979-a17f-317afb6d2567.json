@@ -2,6 +2,7 @@
   "defaultTab" : "nodes",
   "description" : "",
   "executionEnabled" : true,
+  "id" : "e87e0dc2-9060-4979-a17f-317afb6d2567",
   "loglevel" : "INFO",
   "name" : "T1",
   "nodeFilterEditable" : false,
@@ -24,5 +25,6 @@
     },
     "strategy" : "node-first"
   },
-  "user" : "admin"
+  "user" : "admin",
+  "uuid" : "e87e0dc2-9060-4979-a17f-317afb6d2567"
 } ]
